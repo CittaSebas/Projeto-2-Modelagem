@@ -200,4 +200,24 @@ sequenceDiagram
     Elevador-->>Controlador: configuracaoAtivada()
 
 ```
+## Diagrama de Estados
 
+### DdE Elevador
+<img width="1010" height="385" alt="image" src="https://github.com/user-attachments/assets/16127d98-bdd0-4afa-b2ee-a8fa7dfd2fba" />
+
+## Diagrama de atividades
+
+### Cadastro de usuário
+<img width="476" height="231" alt="image" src="https://github.com/user-attachments/assets/a2b6871a-52c9-40a9-8b02-76d255af2f0f" />
+
+### Chamar Elevador
+<img width="667" height="541" alt="image" src="https://github.com/user-attachments/assets/8a6a87ea-a967-432c-be4d-bca300ea3d40" />
+
+### Estado de Emergência
+<img width="535" height="154" alt="image" src="https://github.com/user-attachments/assets/2ded82c4-a6d6-41bc-9c61-b60194c46f26" />
+
+### Estado de Incêndio
+<img width="711" height="80" alt="image" src="https://github.com/user-attachments/assets/7e5df379-13d8-4488-ac9a-acc11742325d" />
+
+### Configurar serviço dos elevadores
+<img width="508" height="177" alt="image" src="https://github.com/user-attachments/assets/cd6383a7-b382-46a6-a969-4a801b25f440" />
