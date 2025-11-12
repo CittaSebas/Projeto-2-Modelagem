@@ -25,8 +25,8 @@ UML de um sistema para  o controle de elevadores em uma rede de hotéis
 | Atores | Elevador | 
 | Prioridade | Essencial | 
 | Pré-Condição | Elevador funcional | 
-| Pós-Condição | Elevador bloqueado até incêndio finalizar | 
-| Fluxo Principal | * O sensor de fumaça do predio capta fumaça <br> * Predio entra em estado de incêndio <br> * Elevador se dirige ao 1º andar <br> * Elevador é bloqueado | 
+| Pós-Condição | Elevador com portas abertas no térreo até situação normalizar | 
+| Fluxo Principal | * O sensor de fumaça do predio capta fumaça <br> * Predio entra em estado de incêndio <br> * Elevador se dirige ao térreo <br> * Elevador abre as portas | 
 
 <br>
 
@@ -36,8 +36,8 @@ UML de um sistema para  o controle de elevadores em uma rede de hotéis
 | Atores | Elevador, Usuário | 
 | Prioridade | Essencial | 
 | Pré-Condição | Elevador funcional | 
-| Pós-Condição | Elevador parado | 
-| Fluxo Principal | * Botão de emergência do Elevador é acionado pelo usuário <br> * Elevador se dirige ao andar mais próximo | 
+| Pós-Condição | Elevador bloqueado até estado de emergência ser desativado | 
+| Fluxo Principal | * Botão de emergência do Elevador é acionado pelo usuário <br> * Elevador se dirige ao andar mais próximo <br> * Espera até todos os passageiros saírem <br> * Fecha as portas | 
 
 <br>
 
@@ -70,7 +70,7 @@ UML de um sistema para  o controle de elevadores em uma rede de hotéis
 | Prioridade | Essencial | 
 | Pré-Condição |  | 
 | Pós-Condição | Serviço dos elevadores configurados | 
-| Fluxo Principal | * Usuário cede informações ao controlador <br> * Controlador registra usuário como usuário normal ou VIP | 
+| Fluxo Principal | *  <br> *  | 
 
 
 ## Diagrama de Classes
