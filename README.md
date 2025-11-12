@@ -203,7 +203,13 @@ sequenceDiagram
 ## Diagrama de Estados
 
 ### DdE Elevador
-<img width="1010" height="385" alt="image" src="https://github.com/user-attachments/assets/16127d98-bdd0-4afa-b2ee-a8fa7dfd2fba" />
+<img width="698" height="390" alt="image" src="https://github.com/user-attachments/assets/ddcd9107-5e8f-48f9-a65a-91cbd1e4ccb7" />
+
+### DdE Incêndio
+<img width="821" height="146" alt="image" src="https://github.com/user-attachments/assets/a506bb5c-5aa3-419f-8da5-e53bd3d58322" />
+
+### DdE Emergência
+<img width="795" height="278" alt="image" src="https://github.com/user-attachments/assets/e52c43bf-98d3-4717-beea-16274061dbee" />
 
 ## Diagrama de atividades
 
