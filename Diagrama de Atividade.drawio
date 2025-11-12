@@ -1,0 +1,331 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9">
+  <diagram name="Página-1" id="JYdErNKXNCiwHXCWXJtk">
+    <mxGraphModel dx="2377" dy="1295" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="290" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="284" y="190" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-1" target="GQMKYCSmkvebNZ1JRbjc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-1" value="Controlador acessa o sistema" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-2" target="GQMKYCSmkvebNZ1JRbjc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;gradientColor=none;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Cadastro de Usuário/VIP&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="30" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-4" target="GQMKYCSmkvebNZ1JRbjc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-4" value="Controlador pede informações do usuário" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-5" target="GQMKYCSmkvebNZ1JRbjc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-5" value="Controlador insere informações do usuário" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="324" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-6" value="Usuário cadastrado como VIP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-7" target="GQMKYCSmkvebNZ1JRbjc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-25" value="Usuário é&amp;nbsp;&lt;div&gt;VIP&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQMKYCSmkvebNZ1JRbjc-22">
+          <mxGeometry x="-0.0373" y="-1" relative="1" as="geometry">
+            <mxPoint x="2" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-7" target="GQMKYCSmkvebNZ1JRbjc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-26" value="Usuário não é VIP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQMKYCSmkvebNZ1JRbjc-23">
+          <mxGeometry x="-0.5238" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-8" target="GQMKYCSmkvebNZ1JRbjc-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-8" value="Usuário cadastrado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;gradientColor=none;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="289" y="195" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;gradientColor=none;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="425" y="295" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-27" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Chamar Elevador&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="370" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-28" target="GQMKYCSmkvebNZ1JRbjc-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;gradientColor=none;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-29" target="GQMKYCSmkvebNZ1JRbjc-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-29" value="Usuário aperta botão do andar ao qual deseja ir" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="119" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-31" target="GQMKYCSmkvebNZ1JRbjc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-31" value="Usuário espera Elevador" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-32" target="GQMKYCSmkvebNZ1JRbjc-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-32" value="Elevador chega e abre as portas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="735" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-33" target="GQMKYCSmkvebNZ1JRbjc-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-33" value="Usuário entra no Elevador" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="945.3333333333335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-34" value="Elevador começa o trajeto ao andar desejado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="915" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-35" target="GQMKYCSmkvebNZ1JRbjc-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-41" value="Andar é&amp;nbsp;&lt;div&gt;VIP&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQMKYCSmkvebNZ1JRbjc-39">
+          <mxGeometry x="0.3333" y="2" relative="1" as="geometry">
+            <mxPoint x="-10" y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-35" target="GQMKYCSmkvebNZ1JRbjc-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-42" value="Andar não é VIP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQMKYCSmkvebNZ1JRbjc-40">
+          <mxGeometry x="-0.2226" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-35" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-37" target="GQMKYCSmkvebNZ1JRbjc-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-37" value="&lt;div&gt;Usuário faz o reconhecimento facial&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-38" target="GQMKYCSmkvebNZ1JRbjc-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-47" value="Não&amp;nbsp;&lt;div&gt;reconhecido&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQMKYCSmkvebNZ1JRbjc-46">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint x="-2" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-38" target="GQMKYCSmkvebNZ1JRbjc-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-56" value="reconhecido" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GQMKYCSmkvebNZ1JRbjc-49">
+          <mxGeometry x="-0.4778" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-38" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-44" target="GQMKYCSmkvebNZ1JRbjc-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="380" />
+              <mxPoint x="610" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-44" value="Usuário refaz reconhecimento facial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="319" y="925" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;gradientColor=none;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="324" y="930" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-57" target="GQMKYCSmkvebNZ1JRbjc-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-57" value="Botoeira informa qual é o elevador do usuário" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-60" target="GQMKYCSmkvebNZ1JRbjc-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-60" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;gradientColor=none;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="920" y="120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-62" target="GQMKYCSmkvebNZ1JRbjc-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-62" value="Usuário aperta botão de emergência" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-63" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Estado de Emergência&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="10" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-66" target="GQMKYCSmkvebNZ1JRbjc-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-66" value="Elevador se dirige ao andar mais próximo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-67" target="GQMKYCSmkvebNZ1JRbjc-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-67" value="Elevador abre as portas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-70" target="GQMKYCSmkvebNZ1JRbjc-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-70" value="Elevador espera todos os usuários descerem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-72" target="GQMKYCSmkvebNZ1JRbjc-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-72" value="Elevador fecha as portas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-74" target="GQMKYCSmkvebNZ1JRbjc-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-74" value="Elevador espera controlador liberar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-76" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="920" y="220" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-77" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;gradientColor=none;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="925" y="225" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-80" target="GQMKYCSmkvebNZ1JRbjc-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-80" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;gradientColor=none;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="920" y="440" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-82" target="GQMKYCSmkvebNZ1JRbjc-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-82" value="Sensor de fumaça do prédio capta fumaça" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-83" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Estado de Incêndio&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="325" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-85" target="GQMKYCSmkvebNZ1JRbjc-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-85" value="Elevador se dirige ao térreo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-87" target="GQMKYCSmkvebNZ1JRbjc-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-87" value="Elevador abre as portas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-94" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="440" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-95" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;gradientColor=none;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1685" y="445" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-98" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Configurar serviço dos elevadores&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="530" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-99" target="GQMKYCSmkvebNZ1JRbjc-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-99" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;gradientColor=none;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="920" y="600" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1199.9999999999995" y="620.1176470588236" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-100" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Controlador acessa o painel de configuração do sistema de elevadores&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-103" target="GQMKYCSmkvebNZ1JRbjc-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-103" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Controlador informa o número total de andares e o número de elevadores disponíveis&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-104" target="GQMKYCSmkvebNZ1JRbjc-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-104" value="Sistema calcula&amp;nbsp; distribuição dos andares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1320" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-107" value="Sistema salva e ativa a nova configuração de serviço dos elevadores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-110" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="720" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-111" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;gradientColor=none;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="725" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQMKYCSmkvebNZ1JRbjc-117" target="GQMKYCSmkvebNZ1JRbjc-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQMKYCSmkvebNZ1JRbjc-117" value="Sistema bloqueia o uso dos Elevadores até o incêndio terminar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
