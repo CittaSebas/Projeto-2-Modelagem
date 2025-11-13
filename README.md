@@ -227,3 +227,7 @@ sequenceDiagram
 
 ### Configurar serviço dos elevadores
 <img width="508" height="177" alt="image" src="https://github.com/user-attachments/assets/cd6383a7-b382-46a6-a969-4a801b25f440" />
+
+## Diagrama de Componente
+<img width="751" height="639" alt="image" src="https://github.com/user-attachments/assets/0a4b0f7b-9053-47c5-ad4b-f0a1bfe80c0f" />
+
